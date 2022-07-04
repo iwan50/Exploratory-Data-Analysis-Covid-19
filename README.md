@@ -1,2 +1,6 @@
-# Exploratory-Data-Analysis-Covid-19
-Analisis sederhana terkait kasus Covid-19 di Indonesia. Source data di dapatkan dari situs kaggle.
+## Exploratory Data Analysis Covid-19
+
+
+This brief analysis will provide an overview of what has actually happened in the year since the COVID-19.
+
+This data ranges one year, from March 2020 to March 2021.
